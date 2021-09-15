@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name) VALUES ('Maria Silva');
+INSERT INTO tb_client (name) VALUES ('Andre de Melo');
+INSERT INTO tb_client (name) VALUES ('Marta dos Santos');
+INSERT INTO tb_client (name) VALUES ('Roberta Goncalves');
+INSERT INTO tb_client (name) VALUES ('Marcos Fernandes');
+INSERT INTO tb_client (name) VALUES ('Bianca de Souza');
+INSERT INTO tb_client (name) VALUES ('Fernando Carvalho');
+INSERT INTO tb_client (name) VALUES ('Romario Soares');
+INSERT INTO tb_client (name) VALUES ('Zidane Nanci');
+INSERT INTO tb_client (name) VALUES ('Maradona dos Santos');
