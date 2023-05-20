@@ -9,5 +9,7 @@
 - Insert()
 - Update
 - Delete
-
+----------------------------------------------
+- Pagination
+- Dados de auditoria
 e tratamento de dados(Exceptions).
